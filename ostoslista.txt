@@ -2,7 +2,7 @@
 -diu diu
 -prööt
 -pruut
--juttuja
+-muutettuja juttuja
 -maitoa
 -nuut nuut
 -jäätelövä
